@@ -1,0 +1,14 @@
+.parent .child .title{
+    color: red;
+}
+{
+    color: green;
+}
+.parent .title{
+    color: blue;
+} 
+
+.parent p,
+.title{
+    color: green;
+}
